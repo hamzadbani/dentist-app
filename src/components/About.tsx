@@ -1,8 +1,7 @@
-import React from 'react';
 import Section from './Section';
 import portraitImg from '../assets/portrait.png';
 
-const About: React.FC = () => {
+const About = () => {
     return (
         <Section id="about" bgWhite>
             <div className="grid md:grid-cols-2 gap-16 items-center">

@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Logo = ({ className = "h-10 w-auto" }) => (
     <svg
         viewBox="0 0 100 100"
